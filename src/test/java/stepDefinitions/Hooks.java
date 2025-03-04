@@ -3,7 +3,6 @@ package stepDefinitions;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebDriverException;
 
 import factory.BaseClass;
 import io.cucumber.java.After;
