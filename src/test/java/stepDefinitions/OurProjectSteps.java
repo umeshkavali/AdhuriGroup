@@ -38,7 +38,6 @@ public class OurProjectSteps extends BaseClass
     {
         String actualTitle = ourProjectPage.getPageTitle();
         Assert.assertEquals(actualTitle, expectedTitle);
-        System.out.println("Capturing the Page Title as:"+expectedTitle);
     }
 
     
